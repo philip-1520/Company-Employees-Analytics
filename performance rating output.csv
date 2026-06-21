@@ -1,0 +1,70 @@
+country,center,job_rate,tenure_days,no,full_name,department,annual_salary,sick_leaves,unpaid_leaves,overtime_hours
+Egypt,East,5,3637,573,"Khalid Alkhawam","Account Management",37884.00,0,0,1
+Egypt,East,5,2929,444,"Ahmad Bradey","Quality Control",29244.00,0,4,8
+Egypt,East,5,2915,446,"Asra Almisri",Manufacturing,22068.00,1,0,9
+Egypt,Main,5,3801,603,"Ahmad Hamuwdatan","Environmental Health/Safety",18132.00,0,0,2
+Egypt,Main,5,3756,48,"Salam Alealbi",Manufacturing,12540.00,1,0,3
+Egypt,Main,5,3638,241,"Muhamad Abu Zamil",Marketing,26808.00,3,0,7
+Egypt,North,5,3805,64,"Ahmad Alealbi",IT,27648.00,5,0,2
+Egypt,North,5,3798,37,"Rima AlAsfar","Quality Assurance",12132.00,0,3,5
+Egypt,North,5,3618,638,"Mari Ayuwb",Creative,11316.00,0,4,7
+Egypt,South,5,3782,609,"Muhamad Albarnawi","Manufacturing Admin",16860.00,6,0,10
+Egypt,South,5,3026,486,"Iad Alhusayn","Quality Assurance",17040.00,2,6,7
+Egypt,South,5,2971,659,"Sahar Qisam",Marketing,39792.00,0,0,8
+Egypt,West,5,3817,565,"Jan Mikayiylian","Quality Assurance",24108.00,6,0,0
+Egypt,West,5,3807,196,"Eala Murad",Facilities/Engineering,33648.00,0,0,4
+Egypt,West,5,3785,545,"Muhamad Ayman","Environmental Health/Safety",26292.00,2,0,7
+Lebanon,Main,5,2641,224,"Emam Mansur","Quality Assurance",16296.00,0,0,10
+Lebanon,Main,5,2294,469,"Muhamad Basil","Human Resources",33828.00,5,0,51
+Lebanon,Main,3,2682,404,"Rahaf Eijluni","Product Development",39420.00,2,0,0
+Lebanon,North,5,2391,369,"Maria Alhizae",Creative,13464.00,2,4,7
+Lebanon,North,3,2934,456,"Kinda Zaki","Product Development",40044.00,0,2,6
+Lebanon,North,2,2608,514,"Muhamad Alghush","Quality Assurance",30444.00,0,0,3
+Lebanon,South,2,2217,685,"Sari Hanna",Marketing,17424.00,0,3,1
+Lebanon,South,1,2297,179,"Aishah Alquatliu","Quality Assurance",24816.00,0,1,0
+Lebanon,West,5,2053,198,"Ibrahim Alhamid","Major Mfg Projects",11964.00,1,0,68
+"Saudi Arabia",East,5,2615,407,"Fulla Alkhalid","Account Management",31284.00,0,0,9
+"Saudi Arabia",East,5,2356,495,"Alia Maseud",Manufacturing,25500.00,6,0,6
+"Saudi Arabia",East,5,2050,454,"Emar Nakaash","Account Management",31680.00,1,5,4
+"Saudi Arabia",Main,5,3760,635,"Iin Almunzilijiu",Sales,17796.00,0,2,8
+"Saudi Arabia",Main,5,3721,293,"Alaa Alqasir",Manufacturing,36732.00,0,0,3
+"Saudi Arabia",Main,5,3589,345,"Rasul Aleumurii",Manufacturing,19140.00,0,0,0
+"Saudi Arabia",North,5,3714,111,"Mari Ayly","Account Management",19668.00,0,0,2
+"Saudi Arabia",North,5,3290,358,"Farial Qulumih",Marketing,12024.00,1,0,3
+"Saudi Arabia",North,5,3123,627,"Muhamad Sulayman",IT,24276.00,6,0,5
+"Saudi Arabia",South,5,3510,288,"Muhamad Almtlq","Professional Training Group",26160.00,0,0,80
+"Saudi Arabia",South,5,3342,295,"Shilan Ahmad","Quality Control",21588.00,2,0,6
+"Saudi Arabia",South,5,3267,167,"Lamia Warur","Account Management",12648.00,4,6,7
+"Saudi Arabia",West,5,3677,17,"Sandra Aljurmqaniu","Account Management",37788.00,0,0,93
+"Saudi Arabia",West,5,3038,490,"Tamadur Barghuth",Marketing,13896.00,0,0,7
+"Saudi Arabia",West,5,2999,442,"Baha Aldiyn Marzuq","Quality Control",10788.00,6,0,38
+Syria,East,5,3053,482,"Abdalrhmin Aljuju","Human Resources",22572.00,1,0,1
+Syria,East,3,2461,584,"Faras Alghandur",IT,21768.00,0,0,6
+Syria,East,3,2213,681,"Ayham Alqadi",Manufacturing,30888.00,3,0,4
+Syria,Main,5,3702,299,"Sami Qareush",Marketing,11820.00,1,0,5
+Syria,Main,5,3371,391,"Fadi Shakur","Quality Assurance",30156.00,2,0,8
+Syria,Main,5,3352,205,"Bara Alrrashid","Research Center",13152.00,4,0,8
+Syria,North,5,3421,150,"Kamal Hajl",Facilities/Engineering,9864.00,6,0,1
+Syria,North,5,2634,258,"Ahmad Alshalaq","Product Development",11796.00,0,0,13
+Syria,North,5,2479,66,"Hamdah Alkhalifa",Manufacturing,9624.00,2,0,3
+Syria,South,5,3028,574,"Muhamad Asamh","Account Management",30228.00,2,2,10
+Syria,South,5,2752,660,"Rafat Musaa",Creative,26256.00,5,0,9
+Syria,South,3,2429,242,"Fuad Alsyqly","Account Management",25152.00,5,2,0
+Syria,West,5,3012,318,"Dinana Zaydan",Manufacturing,18984.00,0,0,5
+Syria,West,5,2929,135,"Duhana Alakhris","Quality Control",28548.00,0,0,7
+Syria,West,5,2846,624,"Zahir Aleitar","Quality Assurance",26304.00,0,4,1
+"United Arab Emirates",East,5,3540,431,"Sahar Jaridiun","Professional Training Group",23592.00,0,0,8
+"United Arab Emirates",East,5,3247,611,"Ranya Faris",Manufacturing,32748.00,0,0,6
+"United Arab Emirates",East,5,2496,451,"Ahmad Qadimati",Facilities/Engineering,32904.00,0,0,9
+"United Arab Emirates",Main,5,3650,82,"Amira Akrym","Account Management",10776.00,3,0,11
+"United Arab Emirates",Main,5,3647,534,"Muhamad Albieli","Quality Control",37656.00,0,0,10
+"United Arab Emirates",Main,5,3568,219,"Mazin Earabi","Account Management",14052.00,0,0,0
+"United Arab Emirates",North,5,3764,14,"Iilian Dbs",Facilities/Engineering,40848.00,1,0,8
+"United Arab Emirates",North,5,3589,297,"Khalil Salam",Creative,17880.00,0,2,6
+"United Arab Emirates",North,5,3585,81,"Eamra Alshueranii",IT,10812.00,0,2,10
+"United Arab Emirates",South,5,3413,397,"Khalid Iibrahim","Environmental Health/Safety",18252.00,6,0,3
+"United Arab Emirates",South,5,3048,118,"Muhamad Bashshar","Account Management",10416.00,2,0,2
+"United Arab Emirates",South,5,2764,337,"Imran Hazruma","Account Management",17376.00,0,0,1
+"United Arab Emirates",West,5,3185,88,"Samah Almaydanii","Account Management",24264.00,0,0,3
+"United Arab Emirates",West,5,3156,494,"Amir Alkhawam","Environmental Compliance",35928.00,1,0,4
+"United Arab Emirates",West,5,2932,209,"Husam Abu Shwmr","Account Management",25848.00,0,0,0

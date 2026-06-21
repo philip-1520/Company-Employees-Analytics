@@ -1,0 +1,26 @@
+country,center,department,overtime_hours
+Egypt,East,Marketing,39
+Egypt,Main,"Quality Control",457
+Egypt,North,"Quality Assurance",341
+Egypt,South,Sales,164
+Egypt,West,"Quality Control",265
+Lebanon,Main,"Human Resources",51
+Lebanon,North,Creative,7
+Lebanon,South,Marketing,1
+Lebanon,West,"Major Mfg Projects",68
+"Saudi Arabia",East,Sales,95
+"Saudi Arabia",Main,"Quality Control",126
+"Saudi Arabia",North,Manufacturing,100
+"Saudi Arabia",South,"Professional Training Group",80
+"Saudi Arabia",West,"Quality Control",238
+Syria,East,"Green Building",14
+Syria,Main,Manufacturing,211
+Syria,North,"Environmental Compliance",48
+Syria,South,"Account Management",10
+Syria,West,"Quality Assurance",16
+"United Arab Emirates",East,Facilities/Engineering,18
+"United Arab Emirates",Main,Sales,116
+"United Arab Emirates",North,Manufacturing,64
+"United Arab Emirates",North,IT,64
+"United Arab Emirates",South,"Quality Control",26
+"United Arab Emirates",West,"Quality Control",163
