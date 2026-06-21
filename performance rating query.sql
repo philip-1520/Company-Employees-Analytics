@@ -1,6 +1,6 @@
 /*
-Goal: to return informations about the three employees with the best perfomance rate in each of the company's centers, prioritazing long-tenured employees when perfomance tails.
-Business insight: this is a valuable information to plan perfomance-rewarding programs.
+Goal: to return information about the three highest-performing employees in each company center, prioritizing long-tenured employees when performance ties.
+Business insight: this information can support employee recognition and performance-based reward programs.
 */
 
 WITH employees_rank AS (
