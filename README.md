@@ -10,6 +10,7 @@ The objective is to show how SQL and Power BI can be used to answer common busin
 
 ## DATASET
 Source: https://www.kaggle.com/datasets/abdallahwagih/company-employees
+
 Fields:
   - No: Unique identifier for each employee.
   - First Name: The employee's first name.
