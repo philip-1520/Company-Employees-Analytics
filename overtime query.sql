@@ -1,5 +1,5 @@
 /*
-Goal: to answer "Which department for each of the company's centers around the world has the most overtime hours?"
+Goal: to answer "Which department in each company center has accumulated the highest number of overtime hours?"
 Business insight: it may indicate understaffing or operational inefficiencies.
 */
 
