@@ -50,4 +50,18 @@ Business insight: it helps the company to target gender-equality campaigns.
 
 Goal: to return information about the three highest-performing employees in each company center, prioritizing long-tenured employees when performance ties.
 
+# DASHBOARD
+
+## Preview
+
+<img width="1294" height="723" alt="Captura de Tela (18)" src="https://github.com/user-attachments/assets/71c468c7-9686-4fd4-bbed-ff7a4bf284e0" />
+
+## Key insights
+
+- Egypt represents the company's largest workforce concentration, while Lebanon has the smallest employee presence.
+- Workforce metrics are relatively balanced across genders, with similar average salary, tenure, and job performance ratings.
+- Sick leave consistently exceeds unpaid leave across all departments.
+- Workforce tenure averages 7.4 years, indicating relatively strong employee retention and organizational stability.
 Business insight: this information can support employee recognition and performance-based reward programs.
+
+##
