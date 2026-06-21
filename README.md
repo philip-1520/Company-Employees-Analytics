@@ -13,6 +13,8 @@ The objective is to show how SQL and Power BI can be used to answer common busin
 
 Source: https://www.kaggle.com/datasets/abdallahwagih/company-employees
 
+Note: "Monthly Salary" and "Years" fields were omitted from the database schema because they can be derived from existing attributes and hence would violate normalization principles.
+
 Fields:
   - No: Unique identifier for each employee.
   - First Name: The employee's first name.
@@ -30,7 +32,7 @@ Fields:
   - Unpaid Leaves: The number of unpaid leaves taken by the employee.
   - Overtime Hours: The total number of overtime hours worked by the employee.
 
-# DIRECT SQL QUERIES
+# ANALYTICAL SQL QUERIES
 
 ## Overtime
 
