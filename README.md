@@ -4,11 +4,13 @@ This project analyzes the Company Employees dataset available on Kaggle under th
 
 The objective is to show how SQL and Power BI can be used to answer common business questions related to workforce management, supporting executive decision-making.
 
-## TECHNOLOGIES
+## Technologies
+
 - SQL (schema creation and analytical queries)
 - Power BI (dashboard)
 
-## DATASET
+## Dataset
+
 Source: https://www.kaggle.com/datasets/abdallahwagih/company-employees
 
 Fields:
@@ -31,13 +33,19 @@ Fields:
 # DIRECT SQL QUERIES
 
 ## Overtime
+
 Goal: to answer "Which department in each company center has accumulated the highest number of overtime hours?"
+
 Business insight: it may indicate understaffing or operational inefficiencies.
 
 ## Gender pay gap
+
 Goal: to answer "What is the gender pay gap in each country where the company operates?"
+
 Business insight: it helps the company to target gender-equality campaigns.
 
 ## Performance rating
+
 Goal: to return information about the three highest-performing employees in each company center, prioritizing long-tenured employees when performance ties.
+
 Business insight: this information can support employee recognition and performance-based reward programs.
