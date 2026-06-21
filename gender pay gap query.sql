@@ -1,6 +1,6 @@
 /*
-Goal: to answer "What is gender pay gap in each of the countries the company operates?"
-Business insight: it helps the company companies to target gender-equality campaigns.
+Goal: to answer "What is the gender pay gap in each country where the company operates?"
+Business insight: it helps the company to target gender-equality campaigns.
 */
 
 WITH
